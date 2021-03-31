@@ -15,7 +15,8 @@ We are going to be creating the Entity Relationship Diagram for Instagram Databa
 
 1. Get inside the environment `$ pipenv shell`
 
-2. Install all dependencies `$ pipenv install`
+2. Install all dependencies `$
+`
 
 3. Generate de diagram as many times as you need `$ python src/models.py`
 
